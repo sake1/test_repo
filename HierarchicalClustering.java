@@ -1,6 +1,10 @@
 import java.io.*;
 import java.util.*;
 
+/**
+ * Created by Timothy
+ */
+
 class Coordinate {
 
     private static final boolean MAX_DISTANCE = false;
