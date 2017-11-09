@@ -96,6 +96,7 @@ public class HierarchicalClustering {
     }
     
     public static void main(String[] args) {
+	// get data from a text file
 	ArrayList<Coordinate> data = getInputDataStream(args[0]);
 	int itr = 0;
 	prettyPrint(data, itr);
